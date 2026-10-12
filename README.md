@@ -17,3 +17,6 @@ Nuestra web te permite convertir la **IP, el nombre del servidor y el puerto** d
 **Tu servidor, tu enlace, tu aventura.** 🎮
 
 Crea tu enlace personalizado y haz que conectarse a tu mundo de Minecraft Bedrock sea más fácil que nunca.
+
+<img width="1432" height="878" alt="Screenshot 2026-10-11 185834" src="https://github.com/user-attachments/assets/cfac145a-f36a-49dc-88b5-9623dc8e1f33" /> 
+<img width="1007" height="1343" alt="Screenshot 2026-10-11 185850" src="https://github.com/user-attachments/assets/5c8fdf22-bb4f-43d4-916d-32f98700c2d5" />
