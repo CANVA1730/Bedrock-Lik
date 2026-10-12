@@ -5,6 +5,8 @@
 
 ¡Conéctate a tu servidor favorito de Minecraft Bedrock con un solo clic! 🚀
 
+[¡Crea Tu Lik De tu Server!](https://bedrock-link.lovable.app)
+
 Nuestra web te permite convertir la **IP, el nombre del servidor y el puerto** de cualquier servidor compatible en un enlace personalizado que puedes compartir con tus amigos. Al abrir el enlace desde un dispositivo compatible, podrás acceder a Minecraft Bedrock e intentar conectarte al servidor sin tener que introducir los datos manualmente.
 
 ### ✨ Características
