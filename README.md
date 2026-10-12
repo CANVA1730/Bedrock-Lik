@@ -23,4 +23,4 @@ Crea tu enlace personalizado y haz que conectarse a tu mundo de Minecraft Bedroc
 <img width="1007" height="1343" alt="Screenshot 2026-10-11 185850" src="https://github.com/user-attachments/assets/5c8fdf22-bb4f-43d4-916d-32f98700c2d5" />
 
 
-⛏️ ¡Conéctate a Minecraft Bedrock con un solo clic! 🚀 Convierte la IP, el nombre y el puerto de tu servidor en un enlace personalizado fácil de compartir. Invita a tus amigos y haz que conectarse a tu servidor sea más rápido, sencillo y cómodo. ¡Crea tu enlace y empieza la aventura! 🎮
+⛏️ ¡Conéctate a Minecraft Bedrock con un solo clic! 🚀 Convierte la IP, el nombre y el puerto de tu servidor en un enlace personalizado fácil de compartir. Invita a tus amigos y haz que conectarse a tu servidor sea más rápido, sencillo y cómodo. ¡Crea tu enlace y empieza la aventura!
